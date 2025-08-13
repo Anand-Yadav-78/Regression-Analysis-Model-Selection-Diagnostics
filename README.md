@@ -74,4 +74,6 @@ The most critical insight emerged from the influence diagnostics and remediation
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-Final Conclusion: This demonstrates a crucial trade-off between a model's statistical purity and its real-world predictive power. The original model, while containing statistical "noise" from outliers, was more robust and generalized better to new, unseen data. This highlights that the most statistically "perfect" model is not always the most practical one for prediction. For this use case, the model trained on the complete dataset is recommended for its superior predictive performance.
+## Final Conclusion: 
+
+This demonstrates a crucial trade-off between a model's statistical purity and its real-world predictive power. The original model, while containing statistical "noise" from outliers, was more robust and generalized better to new, unseen data. This highlights that the most statistically "perfect" model is not always the most practical one for prediction. For this use case, the model trained on the complete dataset is recommended for its superior predictive performance.
