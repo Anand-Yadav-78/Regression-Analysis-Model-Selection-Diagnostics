@@ -1,4 +1,4 @@
-# Regression-Analysis-Model-Selection-Diagnostics
+# Regression-Analysis-Model-Selection-And-Diagnostics
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
