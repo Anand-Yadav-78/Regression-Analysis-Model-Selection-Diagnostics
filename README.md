@@ -3,7 +3,6 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Ames Housing Price Prediction: A Regression Analysis with Rigorous Model Selection & Diagnostics
 This repository contains an end-to-end data science project focused on predicting house sale prices using the Ames, Iowa housing dataset. The primary goal is not simply to achieve high predictive accuracy, but to construct a statistically sound, interpretable, and defensible linear regression model.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
